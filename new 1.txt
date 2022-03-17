@@ -1,0 +1,15 @@
+node *ptr // 
+ptr=(node *)malloc(sizeof(node))
+ptr->info=item;
+if(tail==(node*)Null)
+{
+ptr->prev=ptr-.next=(node*)Null
+head=tail=ptr;
+}
+else
+{
+ptr->neaxt=(node*)Null
+ptr->prev=tail
+tail->next=ptrtail=ptr
+}
+}
